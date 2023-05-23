@@ -32,10 +32,8 @@ This is a [New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zea
 
     <img src="assets/3.0_SEAT_N20.JPG" width="300">
 
-4.If you want to install the output, nows the time. Slide it onto the shaft, with the thinner side inward, and press it into place until fully seated against the clamp.
+3. If you want to install the output, nows the time. Slide it onto the shaft, with the thinner side inward, and press it into place until fully seated against the clamp.
 
-    <img src="assets/3.2_SHAFT_ALIGNMENT.JPG" width="300">
-
-5. Mount with clamp, using the holes cutout earlier.
-6. Smash some bot!
+4. Mount with clamp, using the holes cutout earlier.
+5. Smash some bot!
 
