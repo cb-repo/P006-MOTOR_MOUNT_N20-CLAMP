@@ -150,7 +150,7 @@
           </Margin>
           <BarcodeFormat>QRCode</BarcodeFormat>
           <Data>
-            <DataString>URL:https://github.com/cb-repo/P006-MOTOR_MOUNT_N20-CLAMP</DataString>
+            <DataString>URL:https://github.com/cb-repo/P006-MOTOR_MOUNT_N20-CLAMP/tree/v1.1</DataString>
           </Data>
           <HorizontalAlignment>Center</HorizontalAlignment>
           <VerticalAlignment>Middle</VerticalAlignment>
@@ -158,7 +158,7 @@
           <EQRCodeType>QRCodeWebPage</EQRCodeType>
           <WebAddressDataHolder>
             <MultiDataString>
-              <DataString>https://github.com/cb-repo/P006-MOTOR_MOUNT_N20-CLAMP</DataString>
+              <DataString>https://github.com/cb-repo/P006-MOTOR_MOUNT_N20-CLAMP/tree/v1.1</DataString>
             </MultiDataString>
           </WebAddressDataHolder>
           <ObjectLayout>
