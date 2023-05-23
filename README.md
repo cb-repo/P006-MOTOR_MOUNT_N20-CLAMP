@@ -11,7 +11,6 @@ This is a [New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zea
 - Mounts are threaded so does not require any additional nuts.
 - Internal recesses have been added to provide clearance for the protruding gears of the N-series gearboxes.
 - Screw mounting points are recessed back from the front to enable mounting closer to the edge. 
-- *Delayed due to shipping issues but coming soon in v1.1:* bushing on output shaft to protect the notoriously weak gearbox. 
 
 ## SPECIFICATIONS
 - **Dimensions:** 20x13.4x12 mm
